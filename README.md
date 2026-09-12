@@ -27,13 +27,13 @@ At [SolonTech](https://www.solontech.com.br/), I build independent SaaS products
 
 <code>solontech / engineering</code>
 
-**Payments**  queues · webhooks · reconciliation
+**Payments**<br/>queues · webhooks · reconciliation
 
-**Product systems**  APIs · dashboards · automation
+**Product systems**<br/>APIs · dashboards · automation
 
-**Applied AI**  RAG · agents · semantic search
+**Applied AI**<br/>RAG · agents · semantic search
 
-**Delivery**  quality gates · observability · AWS
+**Delivery**<br/>quality gates · observability · AWS
 
 </td>
 </tr>
@@ -41,19 +41,19 @@ At [SolonTech](https://www.solontech.com.br/), I build independent SaaS products
 
 ## Contribution pulse
 
-<sub>Public activity snapshot · September 2026 · <a href="https://github.com/pedroerico?tab=overview">open the live contribution graph</a></sub>
+<sub>Product activity snapshot · September 2026 · <a href="https://github.com/pedroerico?tab=overview">open the live contribution graph</a></sub>
 
 <table>
 <tr>
-<td align="center" width="25%"><strong>1,804</strong><br/><sub>contributions<br/>last 12 months</sub></td>
-<td align="center" width="25%"><strong>181</strong><br/><sub>commits<br/>current activity</sub></td>
-<td align="center" width="25%"><strong>4</strong><br/><sub>repositories<br/>in current activity</sub></td>
 <td align="center" width="25%"><strong>8+</strong><br/><sub>years<br/>building software</sub></td>
+<td align="center" width="25%"><strong>180</strong><br/><sub>product commits<br/>in this snapshot</sub></td>
+<td align="center" width="25%"><strong>3</strong><br/><sub>SolonTech product<br/>repositories</sub></td>
+<td align="center" width="25%"><strong>4</strong><br/><sub>engineering<br/>focus areas</sub></td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="./assets/contribution-pulse.svg" alt="Contribution pulse: 181 commits across four repositories" width="100%" />
+  <img src="./assets/contribution-pulse.svg" alt="SolonTech product contribution pulse: 180 commits across three repositories" width="100%" />
 </p>
 
 ## Core stack
