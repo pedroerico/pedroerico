@@ -1,49 +1,127 @@
 <div align="center">
-
-# Pedro Erico Pinheiro
-
-### Senior Full-stack Developer | PHP • Laravel • Symfony • React • AWS • Applied AI
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroerico/)
-[![SolonTech](https://img.shields.io/badge/SolonTech-Products-0E7490?style=flat-square&logo=googlechrome&logoColor=white)](https://www.solontech.com.br/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pedroerico.desenvolvedor@gmail.com)
-
+  <img src="./assets/solontech-banner.svg" alt="Pedro Erico Pinheiro — SolonTech engineering" width="100%" />
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/pedroerico/"><img src="https://img.shields.io/badge/LINKEDIN-0B5D3B?style=for-the-badge&logo=linkedin&logoColor=FFD11A" alt="LinkedIn" /></a>
+  <a href="https://www.solontech.com.br/"><img src="https://img.shields.io/badge/SOLONTECH-FFD11A?style=for-the-badge&logo=googlechrome&logoColor=102218" alt="SolonTech" /></a>
+  <a href="mailto:pedroerico.desenvolvedor@gmail.com"><img src="https://img.shields.io/badge/CONTACT-8EDB1F?style=for-the-badge&logo=gmail&logoColor=102218" alt="Email" /></a>
 </div>
 
-## About me
+<table>
+<tr>
+<td valign="top" width="62%">
 
-I am a full-stack developer with 8+ years of experience building web applications, integrations and evolving software systems. My background includes technical leadership, legacy modernization, automated testing and AWS infrastructure.
+## Engineering profile
 
-I also build independent SaaS products at [SolonTech](https://www.solontech.com.br/), working across payments, customer service, commerce and automation. My current applied AI work includes conversational agents, LLM integrations, RAG, semantic search, function calling and multi-tenant guardrails.
+I am a full-stack developer with 8+ years of experience building web applications, integrations and evolving software systems. I work from product context to production runtime, with a focus on reliable delivery.
+
+At [SolonTech](https://www.solontech.com.br/), I build independent SaaS products across payments, customer service, commerce and automation. My applied AI work includes conversational agents, LLM integrations, RAG, semantic search, function calling and multi-tenant guardrails.
 
 - Based in Brazil
-- Working with PHP, Laravel, Symfony, React, Vue.js, TypeScript and AWS
-- Interested in senior full-stack, backend and applied AI opportunities
+- Senior full-stack, backend and applied AI focus
+- Comfortable with architecture, legacy modernization, testing and AWS infrastructure
+
+</td>
+<td valign="top" width="38%">
+
+## Build signal
+
+<code>solontech / engineering</code>
+
+**Payments**  queues · webhooks · reconciliation
+
+**Product systems**  APIs · dashboards · automation
+
+**Applied AI**  RAG · agents · semantic search
+
+**Delivery**  quality gates · observability · AWS
+
+</td>
+</tr>
+</table>
+
+## Contribution pulse
+
+<sub>Public activity snapshot · September 2026 · <a href="https://github.com/pedroerico?tab=overview">open the live contribution graph</a></sub>
+
+<table>
+<tr>
+<td align="center" width="25%"><strong>1,804</strong><br/><sub>contributions<br/>last 12 months</sub></td>
+<td align="center" width="25%"><strong>181</strong><br/><sub>commits<br/>current activity</sub></td>
+<td align="center" width="25%"><strong>4</strong><br/><sub>repositories<br/>in current activity</sub></td>
+<td align="center" width="25%"><strong>8+</strong><br/><sub>years<br/>building software</sub></td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="./assets/contribution-pulse.svg" alt="Contribution pulse: 181 commits across four repositories" width="100%" />
+</p>
 
 ## Core stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/RAG-0E7490?style=for-the-badge&logo=semanticweb&logoColor=white" alt="RAG" />
+<p>
+  <img src="https://img.shields.io/badge/PHP-020D0A?style=for-the-badge&logo=php&logoColor=FFD11A" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-020D0A?style=for-the-badge&logo=laravel&logoColor=8EDB1F" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Symfony-020D0A?style=for-the-badge&logo=symfony&logoColor=FFD11A" alt="Symfony" />
+  <img src="https://img.shields.io/badge/React-020D0A?style=for-the-badge&logo=react&logoColor=8EDB1F" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-020D0A?style=for-the-badge&logo=vuedotjs&logoColor=8EDB1F" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/TypeScript-020D0A?style=for-the-badge&logo=typescript&logoColor=FFD11A" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-020D0A?style=for-the-badge&logo=postgresql&logoColor=8EDB1F" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-020D0A?style=for-the-badge&logo=redis&logoColor=FFD11A" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-020D0A?style=for-the-badge&logo=docker&logoColor=8EDB1F" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-020D0A?style=for-the-badge&logo=amazonwebservices&logoColor=FFD11A" alt="AWS" />
+  <img src="https://img.shields.io/badge/LLMs-020D0A?style=for-the-badge&logo=openai&logoColor=8EDB1F" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG-020D0A?style=for-the-badge&logo=databricks&logoColor=FFD11A" alt="RAG" />
 </p>
 
 ## Selected public work
 
-- [GatewayPay API](https://github.com/pedroerico/gateway-pay-api) — Laravel payment API with queues, webhooks and a circuit breaker strategy.
-- [GatewayPay Frontend](https://github.com/pedroerico/gateway-pay) — Vue.js interface for the GatewayPay project.
-- [Symfony CRUD API](https://github.com/pedroerico/CRUD_completo_api) — Symfony 5.4 API with validation and automated tests.
-- [Bank Management API](https://github.com/pedroerico/bank-management-API) — Banking management API built with Laravel.
+<table>
+<tr>
+<td valign="top" width="50%">
 
-## GitHub activity
+### GatewayPay API
 
-See my [GitHub contribution activity](https://github.com/pedroerico?tab=overview) and featured projects above.
+Laravel payment API with queues, webhooks and circuit breaker strategy.
+
+[View repository →](https://github.com/pedroerico/gateway-pay-api)
+
+</td>
+<td valign="top" width="50%">
+
+### GatewayPay Frontend
+
+Vue.js interface for the GatewayPay project.
+
+[View repository →](https://github.com/pedroerico/gateway-pay)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### Symfony CRUD API
+
+Symfony 5.4 API with validation and automated tests.
+
+[View repository →](https://github.com/pedroerico/CRUD_completo_api)
+
+</td>
+<td valign="top" width="50%">
+
+### Bank Management API
+
+Banking management API built with Laravel.
+
+[View repository →](https://github.com/pedroerico/bank-management-API)
+
+</td>
+</tr>
+</table>
+
+## How I build
+
+<code>design the boundary → make the flow observable → test the failure path → ship the smallest safe change</code>
+
+[LinkedIn](https://www.linkedin.com/in/pedroerico/) · [SolonTech](https://www.solontech.com.br/) · [Email](mailto:pedroerico.desenvolvedor@gmail.com)
+
+<sub>Theme inspired by SolonTech: deep green, bright green and signal yellow.</sub>
