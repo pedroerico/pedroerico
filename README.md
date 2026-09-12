@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="./assets/solontech-banner.svg" alt="Pedro Erico Pinheiro — SolonTech engineering" width="100%" />
-  <br/><br/>
   <a href="https://www.linkedin.com/in/pedroerico/"><img src="https://img.shields.io/badge/LINKEDIN-0B5D3B?style=for-the-badge&logo=linkedin&logoColor=FFD11A" alt="LinkedIn" /></a>
   <a href="https://www.solontech.com.br/"><img src="https://img.shields.io/badge/SOLONTECH-FFD11A?style=for-the-badge&logo=googlechrome&logoColor=102218" alt="SolonTech" /></a>
   <a href="mailto:pedroerico.desenvolvedor@gmail.com"><img src="https://img.shields.io/badge/CONTACT-8EDB1F?style=for-the-badge&logo=gmail&logoColor=102218" alt="Email" /></a>
@@ -10,20 +8,20 @@
 <tr>
 <td valign="top" width="62%">
 
-## Engineering profile
+## Perfil profissional
 
-I am a full-stack developer with 8+ years of experience building web applications, integrations and evolving software systems. I work from product context to production runtime, with a focus on reliable delivery.
+Sou desenvolvedor Full-stack com mais de 8 anos de experiência na construção de aplicações web, integrações e sistemas em evolução. Trabalho do contexto do produto até o runtime de produção, com foco em entregas confiáveis.
 
-At [SolonTech](https://www.solontech.com.br/), I build independent SaaS products across payments, customer service, commerce and automation. My applied AI work includes conversational agents, LLM integrations, RAG, semantic search, function calling and multi-tenant guardrails.
+Na [SolonTech](https://www.solontech.com.br/), construo produtos SaaS independentes para pagamentos, atendimento, comércio e automação. Meu trabalho com Applied AI inclui agentes conversacionais, integrações com LLMs, RAG, semantic search, function calling e guardrails multi-tenant.
 
-- Based in Brazil
-- Senior full-stack, backend and applied AI focus
-- Comfortable with architecture, legacy modernization, testing and AWS infrastructure
+- Baseado no Brasil
+- Foco em Full-stack, Backend e Applied AI
+- Experiência com arquitetura, modernização de sistemas legados, testes e infraestrutura AWS
 
 </td>
 <td valign="top" width="38%">
 
-## Build signal
+## Como construo
 
 <code>solontech / engineering</code>
 
@@ -39,24 +37,24 @@ At [SolonTech](https://www.solontech.com.br/), I build independent SaaS products
 </tr>
 </table>
 
-## Contribution pulse
+## Contribuições
 
-<sub>Product activity snapshot · September 2026 · <a href="https://github.com/pedroerico?tab=overview">open the live contribution graph</a></sub>
+<sub>Snapshot de atividade de produto · setembro de 2026 · <a href="https://github.com/pedroerico?tab=overview">ver gráfico de contribuições ao vivo</a></sub>
 
 <table>
 <tr>
-<td align="center" width="25%"><strong>8+</strong><br/><sub>years<br/>building software</sub></td>
-<td align="center" width="25%"><strong>180</strong><br/><sub>product commits<br/>in this snapshot</sub></td>
-<td align="center" width="25%"><strong>3</strong><br/><sub>SolonTech product<br/>repositories</sub></td>
-<td align="center" width="25%"><strong>4</strong><br/><sub>engineering<br/>focus areas</sub></td>
+<td align="center" width="25%"><strong>8+</strong><br/><sub>anos<br/>construindo software</sub></td>
+<td align="center" width="25%"><strong>180</strong><br/><sub>commits de produto<br/>neste snapshot</sub></td>
+<td align="center" width="25%"><strong>3</strong><br/><sub>repositórios de produto<br/>SolonTech</sub></td>
+<td align="center" width="25%"><strong>4</strong><br/><sub>áreas de foco<br/>técnico</sub></td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="./assets/contribution-pulse.svg" alt="SolonTech product contribution pulse: 180 commits across three repositories" width="100%" />
+  <img src="./assets/contribution-pulse.svg" alt="Painel de contribuições de produto da SolonTech: 180 commits em três repositórios" width="100%" />
 </p>
 
-## Core stack
+## Stack principal
 
 <p>
   <img src="https://img.shields.io/badge/PHP-020D0A?style=for-the-badge&logo=php&logoColor=FFD11A" alt="PHP" />
@@ -73,7 +71,7 @@ At [SolonTech](https://www.solontech.com.br/), I build independent SaaS products
   <img src="https://img.shields.io/badge/RAG-020D0A?style=for-the-badge&logo=databricks&logoColor=FFD11A" alt="RAG" />
 </p>
 
-## Selected public work
+## Projetos públicos selecionados
 
 <table>
 <tr>
@@ -81,18 +79,18 @@ At [SolonTech](https://www.solontech.com.br/), I build independent SaaS products
 
 ### GatewayPay API
 
-Laravel payment API with queues, webhooks and circuit breaker strategy.
+API de pagamentos em Laravel com queues, webhooks e estratégia de circuit breaker.
 
-[View repository →](https://github.com/pedroerico/gateway-pay-api)
+[Ver repositório →](https://github.com/pedroerico/gateway-pay-api)
 
 </td>
 <td valign="top" width="50%">
 
 ### GatewayPay Frontend
 
-Vue.js interface for the GatewayPay project.
+Interface em Vue.js para o projeto GatewayPay.
 
-[View repository →](https://github.com/pedroerico/gateway-pay)
+[Ver repositório →](https://github.com/pedroerico/gateway-pay)
 
 </td>
 </tr>
@@ -101,27 +99,27 @@ Vue.js interface for the GatewayPay project.
 
 ### Symfony CRUD API
 
-Symfony 5.4 API with validation and automated tests.
+API em Symfony 5.4 com validação e testes automatizados.
 
-[View repository →](https://github.com/pedroerico/CRUD_completo_api)
+[Ver repositório →](https://github.com/pedroerico/CRUD_completo_api)
 
 </td>
 <td valign="top" width="50%">
 
 ### Bank Management API
 
-Banking management API built with Laravel.
+API de gestão bancária construída com Laravel.
 
-[View repository →](https://github.com/pedroerico/bank-management-API)
+[Ver repositório →](https://github.com/pedroerico/bank-management-API)
 
 </td>
 </tr>
 </table>
 
-## How I build
+## Meu jeito de construir
 
 <code>design the boundary → make the flow observable → test the failure path → ship the smallest safe change</code>
 
 [LinkedIn](https://www.linkedin.com/in/pedroerico/) · [SolonTech](https://www.solontech.com.br/) · [Email](mailto:pedroerico.desenvolvedor@gmail.com)
 
-<sub>Theme inspired by SolonTech: deep green, bright green and signal yellow.</sub>
+<sub>Identidade visual inspirada na SolonTech: verde profundo, verde-limão e amarelo de destaque.</sub>
