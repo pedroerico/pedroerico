@@ -39,20 +39,37 @@ Na [SolonTech](https://www.solontech.com.br/), construo produtos SaaS independen
 
 ## Contribuições
 
-<sub>Snapshot de atividade de produto · setembro de 2026 · <a href="https://github.com/pedroerico?tab=overview">ver gráfico de contribuições ao vivo</a></sub>
+<sub>Dados públicos do GitHub · atualizado em 26 de setembro de 2026</sub>
 
 <table>
 <tr>
-<td align="center" width="25%"><strong>8+</strong><br/><sub>anos<br/>construindo software</sub></td>
-<td align="center" width="25%"><strong>180</strong><br/><sub>commits de produto<br/>neste snapshot</sub></td>
-<td align="center" width="25%"><strong>3</strong><br/><sub>repositórios de produto<br/>SolonTech</sub></td>
-<td align="center" width="25%"><strong>4</strong><br/><sub>áreas de foco<br/>técnico</sub></td>
+<td align="center" width="25%"><strong>2.013</strong><br/><sub>contribuições<br/>nos últimos 12 meses</sub></td>
+<td align="center" width="25%"><strong>336</strong><br/><sub>commits<br/>em setembro de 2026</sub></td>
+<td align="center" width="25%"><strong>4</strong><br/><sub>repositórios<br/>com atividade no mês</sub></td>
+<td align="center" width="25%"><strong>259</strong><br/><sub>commits no<br/>SolonPay core</sub></td>
 </tr>
 </table>
 
-<p align="center">
-  <img src="./assets/contribution-pulse.svg" alt="Painel de contribuições de produto da SolonTech: 180 commits em três repositórios" width="100%" />
-</p>
+<p>Repositórios com atividade em setembro de 2026:</p>
+
+<table>
+<tr>
+<td><a href="https://github.com/SolonTechGroup/solonpay"><strong>SolonTechGroup/solonpay</strong></a></td>
+<td align="right">259 commits</td>
+</tr>
+<tr>
+<td><a href="https://github.com/SolonTechGroup/solonpay-frontend"><strong>SolonTechGroup/solonpay-frontend</strong></a></td>
+<td align="right">52 commits</td>
+</tr>
+<tr>
+<td><a href="https://github.com/SolonTechGroup/solontech-page"><strong>SolonTechGroup/solontech-page</strong></a></td>
+<td align="right">14 commits</td>
+</tr>
+<tr>
+<td><a href="https://github.com/pedroerico/pedroerico"><strong>pedroerico/pedroerico</strong></a></td>
+<td align="right">11 commits</td>
+</tr>
+</table>
 
 ## Stack principal
 
@@ -122,4 +139,3 @@ API de gestão bancária construída com Laravel.
 
 [LinkedIn](https://www.linkedin.com/in/pedroerico/) · [SolonTech](https://www.solontech.com.br/) · [Email](mailto:pedroerico.desenvolvedor@gmail.com)
 
-<sub>Identidade visual inspirada na SolonTech: verde profundo, verde-limão e amarelo de destaque.</sub>
