@@ -39,35 +39,28 @@ Na [SolonTech](https://www.solontech.com.br/), construo produtos SaaS independen
 
 ## Contribuições
 
-<sub>Dados públicos do GitHub · atualizado em 26 de setembro de 2026</sub>
+<p align="center">
+  <a href="https://github.com/pedroerico?tab=overview">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroerico&amp;theme=github_dark" alt="Resumo dinâmico das contribuições no GitHub" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=pedroerico&amp;theme=dark&amp;hide_border=true&amp;background=020D0A&amp;ring=FFD11A&amp;fire=8EDB1F&amp;currStreakLabel=FFD11A&amp;sideLabels=E6F5E9&amp;dates=9BB7A2" alt="Sequência dinâmica de contribuições no GitHub" width="100%" />
+</p>
+
+<sub>Os cartões são atualizados automaticamente. Para contribuições privadas anonimizadas e a atividade completa, consulte o <a href="https://github.com/pedroerico?tab=overview">gráfico nativo do GitHub</a>.</sub>
+
+### Repositórios com atividade
 
 <table>
 <tr>
-<td align="center" width="25%"><strong>2.013</strong><br/><sub>contribuições<br/>nos últimos 12 meses</sub></td>
-<td align="center" width="25%"><strong>336</strong><br/><sub>commits<br/>em setembro de 2026</sub></td>
-<td align="center" width="25%"><strong>4</strong><br/><sub>repositórios<br/>com atividade no mês</sub></td>
-<td align="center" width="25%"><strong>259</strong><br/><sub>commits no<br/>SolonPay core</sub></td>
-</tr>
-</table>
-
-<p>Repositórios com atividade em setembro de 2026:</p>
-
-<table>
-<tr>
-<td><a href="https://github.com/SolonTechGroup/solonpay"><strong>SolonTechGroup/solonpay</strong></a></td>
-<td align="right">259 commits</td>
+<td valign="top" width="50%"><a href="https://github.com/SolonTechGroup/solonpay/commits/main"><strong>SolonTechGroup/solonpay</strong></a><br/><sub>SolonPay · núcleo da plataforma</sub></td>
+<td valign="top" width="50%"><a href="https://github.com/SolonTechGroup/solonpay-frontend/commits/main"><strong>SolonTechGroup/solonpay-frontend</strong></a><br/><sub>SolonPay · frontend</sub></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SolonTechGroup/solonpay-frontend"><strong>SolonTechGroup/solonpay-frontend</strong></a></td>
-<td align="right">52 commits</td>
-</tr>
-<tr>
-<td><a href="https://github.com/SolonTechGroup/solontech-page"><strong>SolonTechGroup/solontech-page</strong></a></td>
-<td align="right">14 commits</td>
-</tr>
-<tr>
-<td><a href="https://github.com/pedroerico/pedroerico"><strong>pedroerico/pedroerico</strong></a></td>
-<td align="right">11 commits</td>
+<td valign="top" width="50%"><a href="https://github.com/SolonTechGroup/solontech-page/commits/main"><strong>SolonTechGroup/solontech-page</strong></a><br/><sub>SolonTech · página institucional</sub></td>
+<td valign="top" width="50%"><a href="https://github.com/pedroerico/pedroerico/commits/main"><strong>pedroerico/pedroerico</strong></a><br/><sub>Perfil e documentação profissional</sub></td>
 </tr>
 </table>
 
